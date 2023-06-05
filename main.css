@@ -38,3 +38,7 @@ body{
     margin: 0;
     box-sizing: border-box;
 }
+
+.btn_red{
+    background-color: red;
+}
